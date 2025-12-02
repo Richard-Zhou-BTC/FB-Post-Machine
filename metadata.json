@@ -1,0 +1,5 @@
+{
+  "name": "ACC Furniture AI Manager",
+  "description": "AI-powered social media generator for ACC Furniture factory. Upload your product library, and the AI will pick images and write professional B2B Facebook posts automatically.",
+  "requestFramePermissions": []
+}
